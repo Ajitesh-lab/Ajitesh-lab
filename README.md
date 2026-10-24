@@ -16,11 +16,6 @@ A marketing workspace for indie founders. Turn product details into social draft
 
 [Explore LaunchLoop](https://launchloop.studio)
 
-### [HalluCheck](https://github.com/Ajitesh-lab/hallucheck)
-Evidence-grounded verification for AI coding agents. Check claims against local code, inspect findings, and investigate repairs inside the coding session.
-
-[Source & documentation](https://github.com/Ajitesh-lab/hallucheck) · [Get started](https://github.com/Ajitesh-lab/hallucheck/blob/main/docs/SETUP.md)
-
 ## What I care about
 
 Useful automation, clear evidence, and giving people control over the software acting on their behalf.
