@@ -9,8 +9,7 @@ Self-taught developer in London. Right now I'm building Margin, a live handwriti
 ## Shipped
 - **[hallucheck](https://github.com/Ajitesh-lab/hallucheck)** — checks AI coding-agent claims against your local code and shows the evidence, through MCP and hooks for Claude Code and Codex. I chose the stack and the process (TypeScript, a local verifier, MCP, and editor hooks); used AI to speed up implementation.
 - **[Biome](https://biomeai.uk)** — personal AI agent for macOS. Browses, edits files and code, keeps local memory, and pauses for approval before risky actions. BYO keys across 11+ model providers. Built with heavy AI assistance (vibe-coded) — I directed the product and shipped it end to end, and I'm still learning the deeper internals. [Releases](https://github.com/Ajitesh-lab/biome-releases)
-- **[LaunchLoop](https://launchloop.studio)** — turns a product description into a week of X/Reddit/LinkedIn drafts and outreach for indie founders. Built with heavy AI assistance — I owned product direction and shipping, and I'm still learning the internals. £1,700/month in revenue.
-
+- **[LaunchLoop](https://launchloop.studio)** — turns a product description into a week of X/Reddit/LinkedIn drafts and outreach for indie founders. Built with heavy AI assistance — I owned product direction and shipping, and I'm still learning the internals.
 ## Past projects (archived)
 - **Black Box** — a cryptographic flight recorder for AI agents.
 - **CityTwin** — traffic-network simulation to test road changes before building them.
